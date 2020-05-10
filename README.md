@@ -1,2 +1,5 @@
 # SNAKE-GAME
-it is a snake game that i have created.
+
+## It is a snake game that i have created.
+
+### Output Link :  https://rajdeepjaiswal.github.io/SNAKE-GAME/
